@@ -1,0 +1,11 @@
+{
+    "name": "Yearnyfi.Network",
+    "symbol": "YNI",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://yearnyfi.network/",
+    "explorer": "https://etherscan.io/token/0xdeaa665ab71785ccf576dc76e5fcb5a2283ea0c6",
+    "status": "active",
+    "id": "0xdeaa665ab71785ccf576dc76e5fcb5a2283ea0c6"
+}
